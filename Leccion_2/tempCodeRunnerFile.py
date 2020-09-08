@@ -1,0 +1,1 @@
+float(input('Ingrese su sueldo mensula:'))
