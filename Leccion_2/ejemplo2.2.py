@@ -1,4 +1,4 @@
-# # while 
+########### While ###########
 c = 1
 while c < 10:
     print(c)
@@ -22,8 +22,8 @@ while x <= 12:
      x += 1  # += trae el valor de n (esto seria lo mismo que hacer c = c + 1)
 
 # # Hacer una calculadora para ingresar numeros por teclado, pero mas bonita
- n = input('Ingres un numero para ver su tabla:')
- c = 1
+n = input('Ingres un numero para ver su tabla:')
+c = 1
 
 while c <= 12:
     resultado = (int(n) * c)
